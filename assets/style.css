@@ -17,6 +17,10 @@
 
 }
 
+.searchBar {
+    right:auto;
+}
+
 img {
     display: block;
     max-width: fit-content;
@@ -32,7 +36,7 @@ body {
     color: var(--titletxt);
 }
 
-
+/* 
 .ajax-section {
     margin: 50px 0 20px;
   }
@@ -92,4 +96,4 @@ body {
     margin-top: 10px;
     width: 100px;
     height: 100px;
-  }
+  } */
